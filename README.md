@@ -42,12 +42,15 @@ https://www.opengraph.xyz/url/https%3A%2F%2Fwww.hamburg-werbefrei.de
 ### First results (testet on iOS 18.3) with the following apps
 
 Messages:
+
 ![Messages on iOS](/assets/testing/messages-ios-18.3.jpg)
 
 Telegram:
+
 ![Telegram on iOS](/assets/testing/telegram-ios-18.3.jpg)
 
 Signal:
+
 ![Signal on iOS](/assets/testing/signal-ios-18.3.jpg)
 
 Perhaps the shareimage should be adjusted in the proportions, so that it works for all services.
