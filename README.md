@@ -26,7 +26,7 @@ Copy the OpenGraph tags into the head section of your HTML page.
 
 ### Notes
 
-Set the all urls to an absolute address on the corresponding web server - the messenger and sharing sites access this information externally.
+Set all urls to an absolute address on the corresponding web server - the messenger and sharing sites access this information externally.
 
 ### Example
 https://lfbrc.github.io/Hamburg-Werbefrei-OpenGraph-image/
@@ -39,9 +39,22 @@ https://www.opengraph.xyz/url/https%3A%2F%2Flfbrc.github.io%2FHamburg-Werbefrei-
 Live system:
 https://www.opengraph.xyz/url/https%3A%2F%2Fwww.hamburg-werbefrei.de
 
+### First results (testet on iOS 18.3) with the following apps
+
+Messages:
+![Messages on iOS](/assets/testing/messages-ios-18.3.jpg)
+
+Telegram:
+![Telegram on iOS](/assets/testing/telegram-ios-18.3.jpg)
+
+Signal:
+![Signal on iOS](/assets/testing/signal-ios-18.3.jpg)
+
+Perhaps the shareimage should be adjusted in the proportions, so that it works for all services.
+
 For more information on the widely used Open Graph protocol look here:
 https://ogp.me
 
-If you have any questions, you can visit the “HWF Technik neu” group on Signal. Thank you very much!
+If you have any questions, you can join the “HWF Technik neu” group on Signal. Thank you very much!
 
 Images: © 2025 Hamburg Werbefrei
