@@ -28,10 +28,13 @@ Copy the OpenGraph tags into the head section of your HTML page.
 
 Set the all urls to an absolute address on the corresponding web server - the messenger and sharing sites access this information externally.
 
+### Example
+https://lfbrc.github.io/Hamburg-Werbefrei-OpenGraph-image/
+
 ### Testing
 
 This test page:
-
+https://lfbrc.github.io/Hamburg-Werbefrei-OpenGraph-image/
 
 Live system:
 https://www.opengraph.xyz/url/https%3A%2F%2Fwww.hamburg-werbefrei.de
