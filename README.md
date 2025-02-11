@@ -34,7 +34,7 @@ https://lfbrc.github.io/Hamburg-Werbefrei-OpenGraph-image/
 ### Testing
 
 This test page:
-https://lfbrc.github.io/Hamburg-Werbefrei-OpenGraph-image/
+https://www.opengraph.xyz/url/https%3A%2F%2Flfbrc.github.io%2FHamburg-Werbefrei-OpenGraph-image
 
 Live system:
 https://www.opengraph.xyz/url/https%3A%2F%2Fwww.hamburg-werbefrei.de
