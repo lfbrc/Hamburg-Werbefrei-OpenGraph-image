@@ -53,6 +53,10 @@ Signal:
 
 ![Signal on iOS](/assets/testing/signal-ios-18.3.jpg)
 
+Mastodon:
+
+![Mastodon on iOS](/assets/testing/mastodon-ios-18.3.jpg)
+
 Perhaps the shareimage should be adjusted in the proportions, so that it works for all services.
 
 For more information on the widely used Open Graph protocol look here:
@@ -61,3 +65,9 @@ https://ogp.me
 If you have any questions, you can join the “HWF Technik neu” group on Signal. Thank you very much!
 
 Images: © 2025 Hamburg Werbefrei
+
+---
+Version history:
+
+20250211 - Initial commit
+20250212 - Add Mastodon screenshot to REDAME
