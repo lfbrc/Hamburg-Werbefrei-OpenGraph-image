@@ -69,5 +69,5 @@ Images: © 2025 Hamburg Werbefrei
 ---
 Version history:
 
-20250211 - Initial commit
+20250211 - Initial commit  
 20250212 - Add Mastodon screenshot to REDAME
